@@ -1,4 +1,4 @@
-## OG Fortnite Playlists
+## OG Fortnite Assets
 **Thanks to Unreal Engine's CDN for hosting these playlist images, making it possible for developers to easily access and replicate these assets for their own Fortnite projects, backend content pages, or any other work.**
 
 > #### Default Playlists
